@@ -14,13 +14,13 @@ A listing of companies (or teams within companies) that don't do typical, CS bas
 
 ## D - F
 - [drchrono](https://www.drchrono.com/careers/) | Mountain View, CA | Hackerrank test & on-site project
+- [DroneDeploy](https://www.dronedeploy.com/careers.html) | San Francisco, CA | Pair program on a problem similar to daily work
 - [Etix Everywhere](https://www.etixeverywhere.com/en/job-offers/) | Luxembourg
 - [Fitbot](https://thefitbot.com/careers.html) | Boulder, CO | Pairing & writing code with the founders for a few hours
 
 ## G - I
 - [GoDaddy](https://www.godaddy.com/careers/overview) | Sunnyvale, CA | Pair programming with senior engineers
 - [Gusto](https://gusto.com/about/careers) | CA, CO
-- [Heap](https://heapanalytics.com/jobs) | San Francisco/Remote | Practical, self-contained onsite project
 - [Heptio](https://www.heptio.com/jobs/) | Seattle/Remote | Take-home project, discussion on-site
 
 ## J - L
