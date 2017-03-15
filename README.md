@@ -8,12 +8,10 @@ A listing of companies (or teams within companies) that don't do typical, CS bas
 ```
 
 ## A - C
-- [AgileMD](https://angel.co/agilemd/jobs) | San Francisco, CA | Takehome project
 - [Abstract](https://angel.co/abstract/jobs) | San Francisco, CA
-- [brightwheel](https://angel.co/brightwheel/jobs) | San Francisco, CA
 
 ## D - F
-- [Etix Everywhere](https://www.etixeverywhere.com/en/job-offers/) | Luxembourg
+- [DroneDeploy](https://www.dronedeploy.com/careers.html) | San Francisco, CA | Pair program on a problem similar to daily work
 - [Fitbot](https://thefitbot.com/careers.html) | Boulder, CO | Pairing & writing code with the founders for a few hours
 
 ## G - I
@@ -36,7 +34,6 @@ A listing of companies (or teams within companies) that don't do typical, CS bas
 
 ## S - U
 - [Slack](https://slack.com/jobs) | San Francisco, CA
-- [Shopify](https://www.shopify.com/careers) | Canada
 
 ## V - X
 - replace me
